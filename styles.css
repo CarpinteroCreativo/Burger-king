@@ -21,7 +21,8 @@ body {
 .grid > .slider{
     height:250px;
     color:#000000;
-    background-size:cover; background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT-DxEDNqFR-BXKwPg0Xyxrmii8jL0NaH2Sg&amp;s");
+    background-size:cover; 
+    background-image:url("https://burgerkinghonduras.hn/assets/images/logo-lc.png");
 }
 
 .grid > .slider p{
